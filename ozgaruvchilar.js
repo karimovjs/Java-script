@@ -361,14 +361,14 @@
 
 // console.log(molumot)
 
-// function evenOrOddDec (number) {
-//     if (number % 2 === 0) {
-//         console.log(`${number} JUft`)
-//     } else {
-//         console.log(`${number} Tak`)
-//     }
-// }
-// evenOrOddDec(901)
+function evenOrOddDec (number) {
+    if (number % 2 === 0) {
+        console.log(`${number} JUft`)
+    } else {
+        console.log(`${number} Tak`)
+    }
+}
+evenOrOddDec(901)
 
 // const kvadrat = function(son) {
 //     return son * son;
@@ -407,5 +407,6 @@
 console.log(18.12,2009)
 console.log('Shanur Karimov')
 console.log('Orazmuratovich')
+
 
 
