@@ -335,72 +335,76 @@
 
 
 
-function evenOrOddDec (number) {
-    if (number % 2 === 0) {
-        console.log(`${number} is even`)
-    } else {
-        console.log(`${number} is odd`)
-    }
-} 
+// function evenOrOddDec (number) {
+//     if (number % 2 === 0) {
+//         console.log(`${number} is even`)
+//     } else {
+//         console.log(`${number} is odd`)
+//     }
+// } 
 
-evenOrOddDec(10)
+// evenOrOddDec(10)
 
-// const kvadrat = function(son) {
-//     return son + son;
+// // const kvadrat = function(son) {
+// //     return son + son;
+// // }
+
+// // console.log(kvadrat(10))
+
+
+
+// const molumot = {
+//     ism: 'Shanur',
+//     faniliya: 'Karimov',
+//     yosh: 16
 // }
 
-// console.log(kvadrat(10))
+// console.log(molumot)
+
+// function evenOrOddDec (number) {
+//     if (number % 2 === 0) {
+//         console.log(`${number} JUft`)
+//     } else {
+//         console.log(`${number} Tak`)
+//     }
+// }
+// evenOrOddDec(901)
+
+// const kvadrat = function(son) {
+//     return son * son;
+// }
+
+// console.log(kvadrat(100))
+
+// let ism = 'Shanur'
+// let Ism = 'Karimov'
+
+// console.log(ism)
+// console.log(Ism)
+
+// let box = 10;
+// const pp = 0.5;
+
+// console.log(box, pp)
 
 
+// let ppp = 15;
+// let ap = 15;
 
-const molumot = {
-    ism: 'Shanur',
-    faniliya: 'Karimov',
-    yosh: 16
-}
+// const app = ppp + ap;
+// console.log(app)
 
-console.log(molumot)
+// let yil = 2026;
+// let tugulgan = 2009;
+// yil = yil - tugulgan;
+// console.log(yil, tugulgan)
 
-function evenOrOddDec (number) {
-    if (number % 2 === 0) {
-        console.log(`${number} JUft`)
-    } else {
-        console.log(`${number} Tak`)
-    }
-}
-evenOrOddDec(901)
+// let kun = 18;
+// let oy = 12;
+// let yill = 2009;
+// console.log(kun, oy, yill)
 
-const kvadrat = function(son) {
-    return son * son;
-}
+console.log(18.12,2009)
+console.log('Shanur Karimov')
 
-console.log(kvadrat(100))
-
-let ism = 'Shanur'
-let Ism = 'Karimov'
-
-console.log(ism)
-console.log(Ism)
-
-let box = 10;
-const pp = 0.5;
-
-console.log(box, pp)
-
-
-let ppp = 15;
-let ap = 15;
-
-const app = ppp + ap;
-console.log(app)
-
-let yil = 2026;
-let tugulgan = 2009;
-yil = yil - tugulgan;
-console.log(yil, tugulgan)
-
-let kun = 18;
-let oy = 12;
-let yill = 2009;
-console.log(kun, oy, yill)
 
