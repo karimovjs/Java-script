@@ -327,11 +327,11 @@
 
 
 
-// const notifyDoubleClick = () => {
-//     console.log('Element bosildi');
-// }
-// const btn = document.getElementById('btn');
-// btn.addEventListener('dblclick', notifyDoubleClick);
+const notifyDoubleClick = () => {
+    console.log('Element bosildi');
+}
+const btn = document.getElementById('btn');
+btn.addEventListener('dblclick', notifyDoubleClick);
 
 
 
