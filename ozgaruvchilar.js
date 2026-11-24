@@ -353,13 +353,13 @@
 
 
 
-// const molumot = {
-//     ism: 'Shanur',
-//     faniliya: 'Karimov',
-//     yosh: 16
-// }
+const molumot = {
+    ism: 'Shanur',
+    faniliya: 'Karimov',
+    yosh: 16
+}
 
-// console.log(molumot)
+console.log(molumot)
 
 function evenOrOddDec (number) {
     if (number % 2 === 0) {
