@@ -406,5 +406,6 @@
 
 console.log(18.12,2009)
 console.log('Shanur Karimov')
+console.log('Orazmuratovich')
 
 
