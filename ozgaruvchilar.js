@@ -370,11 +370,11 @@ function evenOrOddDec (number) {
 }
 evenOrOddDec(901)
 
-// const kvadrat = function(son) {
-//     return son * son;
-// }
+const kvadrat = function(son) {
+    return son * son;
+}
 
-// console.log(kvadrat(100))
+console.log(kvadrat(100))
 
 // let ism = 'Shanur'
 // let Ism = 'Karimov'
