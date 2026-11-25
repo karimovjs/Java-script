@@ -440,3 +440,6 @@ console.log(result)
 let doslar = ['Shanur', 'Arslan', 'Yhlas', 'Aybatir'];
 doslar.pop('Shanur')
 console.log(doslar)
+
+let age = [16,17,18,19,20]
+console.log(age)
