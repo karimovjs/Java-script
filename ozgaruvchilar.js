@@ -428,6 +428,10 @@
 // console.log(yosh)
   
 let titlee = 'Salom men Karimov Shanur men Fulstack'
+let yosh = 18;
+let yosh1 = 12;
+let yil = 2009;
 
-let result = `${titlee} dasdurchiman`
+let yill = `Men ${yosh}.${yosh1}.${yil} nchi sanada tugilganman`
+let result = `${titlee} dasdurchiman.${yill}`
 console.log(result)
