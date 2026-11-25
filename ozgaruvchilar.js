@@ -443,3 +443,5 @@ console.log(doslar)
 
 let age = [16,17,18,19,20]
 console.log(age)
+
+console.log(10 ** 10)
