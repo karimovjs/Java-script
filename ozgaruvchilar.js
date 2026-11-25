@@ -327,11 +327,11 @@
 
 
 
-const notifyDoubleClick = () => {
-    console.log('Element bosildi');
-}
-const btn = document.getElementById('btn');
-btn.addEventListener('dblclick', notifyDoubleClick);
+// const notifyDoubleClick = () => {
+//     console.log('Element bosildi');
+// }
+// const btn = document.getElementById('btn');
+// btn.addEventListener('dblclick', notifyDoubleClick);
 
 
 
@@ -353,28 +353,28 @@ btn.addEventListener('dblclick', notifyDoubleClick);
 
 
 
-const molumot = {
-    ism: 'Shanur',
-    faniliya: 'Karimov',
-    yosh: 16
-}
+// const molumot = {
+//     ism: 'Shanur',
+//     faniliya: 'Karimov',
+//     yosh: 16
+// }
 
-console.log(molumot)
+// console.log(molumot)
 
-function evenOrOddDec (number) {
-    if (number % 2 === 0) {
-        console.log(`${number} JUft`)
-    } else {
-        console.log(`${number} Tak`)
-    }
-}
-evenOrOddDec(901)
+// function evenOrOddDec (number) {
+//     if (number % 2 === 0) {
+//         console.log(`${number} JUft`)
+//     } else {
+//         console.log(`${number} Tak`)
+//     }
+// }
+// evenOrOddDec(901)
 
-const kvadrat = function(son) {
-    return son * son;
-}
+// const kvadrat = function(son) {
+//     return son * son;
+// }
 
-console.log(kvadrat(100))
+// console.log(kvadrat(100))
 
 // let ism = 'Shanur'
 // let Ism = 'Karimov'
@@ -404,9 +404,20 @@ console.log(kvadrat(100))
 // let yill = 2009;
 // console.log(kun, oy, yill)
 
-console.log(18.12,2009)
-console.log('Shanur Karimov')
-console.log('Orazmuratovich')
+// console.log(18.12,2009)
+// console.log('Shanur Karimov')
+// console.log('Orazmuratovich')
 
 
+// console.log(5 ** 2)
+
+// const arslan = 'Arslan'
+// const family = 'Kurbanov'
+// let ism = arslan + family;
+
+// console.log(ism)
+
+// console.log('Arslan Kurbanov')
+
+  
 
