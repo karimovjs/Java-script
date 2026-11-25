@@ -435,3 +435,8 @@ let yil = 2009;
 let yill = `Men ${yosh}.${yosh1}.${yil} nchi sanada tugilganman`
 let result = `${titlee} dasdurchiman.${yill}`
 console.log(result)
+
+
+let doslar = ['Shanur', 'Arslan', 'Yhlas', 'Aybatir'];
+doslar.pop('Shanur')
+console.log(doslar)
