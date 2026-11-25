@@ -417,7 +417,17 @@
 
 // console.log(ism)
 
-console.log('Arslan Kurbanov')
+// 
 
+// let yosh = 15;
+// yosh = yosh + 1;
+// yosh++
+// yosh++
+
+
+// console.log(yosh)
   
+let titlee = 'Salom men Karimov Shanur men Fulstack'
 
+let result = `${titlee} dasdurchiman`
+console.log(result)
