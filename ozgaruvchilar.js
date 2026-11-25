@@ -417,7 +417,7 @@
 
 // console.log(ism)
 
-// console.log('Arslan Kurbanov')
+console.log('Arslan Kurbanov')
 
   
 
