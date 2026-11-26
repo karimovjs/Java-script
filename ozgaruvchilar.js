@@ -472,4 +472,4 @@ let keyingi = ism.slice(1).toLowerCase();
 let result = harf1 + keyingi;
 alert(`Salom,${result}`);
 
-
+console.log('26 noyabr oxirgi yangilanish');
