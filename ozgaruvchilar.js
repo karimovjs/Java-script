@@ -458,3 +458,6 @@ console.log(age >= 16)
 console.log(age > 10)
 console.log(age < 10)
 console.log(age === 16)
+
+const ism = 'shanur';
+console.log(ism >= 'Shanur')
