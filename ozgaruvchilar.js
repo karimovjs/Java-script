@@ -461,3 +461,7 @@ console.log(age === 16)
 
 const ism = 'shanur';
 console.log(ism >= 'Shanur')
+
+let age2 = 100;
+age2 = Number(age2);
+console.log(age2 + 1)
