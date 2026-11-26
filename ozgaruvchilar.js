@@ -448,20 +448,28 @@
 
 console.log('Bugun yangi hissa');
 
-let ff = 'karimov@gmail.com'
-let result = ff.includes('i')
-console.log(result)
+// let ff = 'karimov@gmail.com'
+// let result = ff.includes('i')
+// console.log(result)
 
-let age = 15;
-console.log(age >= 16)
+// let age = 15;
+// console.log(age >= 16)
 
-console.log(age > 10)
-console.log(age < 10)
-console.log(age === 16)
+// console.log(age > 10)
+// console.log(age < 10)
+// console.log(age === 16)
 
-const ism = 'shanur';
-console.log(ism >= 'Shanur')
+// const ism = 'shanur';
+// console.log(ism >= 'Shanur')
 
-let age2 = 100;
-age2 = Number(age2);
-console.log(age2 + 1)
+// let age2 = 100;
+// age2 = Number(age2);
+// console.log(age2 + 1)
+
+let ism = prompt('Ismingizni kiriting:');
+let harf1 = ism.charAt().toUpperCase();
+let keyingi = ism.slice(1).toLowerCase();
+let result = harf1 + keyingi;
+alert(`Salom,${result}`);
+
+
