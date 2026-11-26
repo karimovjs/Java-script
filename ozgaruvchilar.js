@@ -427,21 +427,23 @@
 
 // console.log(yosh)
   
-let titlee = 'Salom men Karimov Shanur men Fulstack'
-let yosh = 18;
-let yosh1 = 12;
-let yil = 2009;
+// let titlee = 'Salom men Karimov Shanur men Fulstack'
+// let yosh = 18;
+// let yosh1 = 12;
+// let yil = 2009;
 
-let yill = `Men ${yosh}.${yosh1}.${yil} nchi sanada tugilganman`
-let result = `${titlee} dasdurchiman.${yill}`
-console.log(result)
+// let yill = `Men ${yosh}.${yosh1}.${yil} nchi sanada tugilganman`
+// let result = `${titlee} dasdurchiman.${yill}`
+// console.log(result)
 
 
-let doslar = ['Shanur', 'Arslan', 'Yhlas', 'Aybatir'];
-doslar.pop('Shanur')
-console.log(doslar)
+// let doslar = ['Shanur', 'Arslan', 'Yhlas', 'Aybatir'];
+// doslar.pop('Shanur')
+// console.log(doslar)
 
-let age = [16,17,18,19,20]
-console.log(age)
+// let age = [16,17,18,19,20]
+// console.log(age)
 
-console.log(10 ** 10)
+// console.log(10 ** 10)
+
+console.log('Bugun yangi hissa')
