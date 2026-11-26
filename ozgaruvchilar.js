@@ -453,4 +453,8 @@ let result = ff.includes('i')
 console.log(result)
 
 let age = 15;
-console.log(age <= 16)
+console.log(age >= 16)
+
+console.log(age > 10)
+console.log(age < 10)
+console.log(age === 16)
