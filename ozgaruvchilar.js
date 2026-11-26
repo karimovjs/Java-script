@@ -446,4 +446,11 @@
 
 // console.log(10 ** 10)
 
-console.log('Bugun yangi hissa')
+console.log('Bugun yangi hissa');
+
+let ff = 'karimov@gmail.com'
+let result = ff.includes('i')
+console.log(result)
+
+let age = 15;
+console.log(age <= 16)
