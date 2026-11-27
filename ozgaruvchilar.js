@@ -487,3 +487,8 @@ for (i = 0; i < 15; i++) {
     console.log("Shanur")
 }
 
+const names = ['Shanur', 'Arslan', 'Yhlas', 'Dessan']
+
+for (i = 0; i < names.length; i++) {
+    console.log(names[i])
+}
