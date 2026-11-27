@@ -446,7 +446,7 @@
 
 // console.log(10 ** 10)
 
-console.log('Bugun yangi hissa');
+//console.log('Bugun yangi hissa');
 
 // let ff = 'karimov@gmail.com'
 // let result = ff.includes('i')
@@ -466,10 +466,24 @@ console.log('Bugun yangi hissa');
 // age2 = Number(age2);
 // console.log(age2 + 1)
 
-let ism = prompt('Ismingizni kiriting:');
-let harf1 = ism.charAt().toUpperCase();
-let keyingi = ism.slice(1).toLowerCase();
-let result = harf1 + keyingi;
-alert(`Salom,${result}`);
+// let ism = prompt('Ismingizni kiriting:');
+// let harf1 = ism.charAt().toUpperCase();
+// let keyingi = ism.slice(1).toLowerCase();
+// let result = harf1 + keyingi;
+// alert(`Salom,${result}`);
 
-console.log('26 noyabr oxirgi yangilanish');
+// console.log('26 noyabr oxirgi yangilanish');
+
+// 27 nchi noyabr
+
+// For Loop
+console.log('27 nchi noyabr birinchi hissa')
+
+for (i = 0; i < 10; i++) {
+    console.log(i) 
+}  
+
+for (i = 0; i < 15; i++) {
+    console.log("Shanur")
+}
+
