@@ -479,16 +479,24 @@
 // For Loop
 console.log('27 nchi noyabr birinchi hissa')
 
-for (i = 0; i < 10; i++) {
-    console.log(i) 
-}  
+// for (i = 0; i < 10; i++) {
+//     console.log(i) 
+// }  
 
-for (i = 0; i < 15; i++) {
-    console.log("Shanur")
-}
+// for (i = 0; i < 15; i++) {
+//     console.log("Shanur")
+// }
 
-const names = ['Shanur', 'Arslan', 'Yhlas', 'Dessan']
+// const names = ['Shanur', 'Arslan', 'Yhlas', 'Dessan']
 
-for (i = 0; i < names.length; i++) {
-    console.log(names[i])
-}
+// for (i = 0; i < names.length; i++) {
+//     console.log(names[i])
+// }
+
+let i = 0;
+
+while (i < 10) {
+    console.log(i)
+    i++
+};
+
